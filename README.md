@@ -21,4 +21,4 @@ pytest
 
 ```bash
 source .venv/bin/activate
-python api_spents/main.py
+python Spents/main.py
